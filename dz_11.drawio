@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.1">
   <diagram name="Страница-1" id="5Q3L36Sg8CasfPyThoA8">
-    <mxGraphModel>
+    <mxGraphModel dx="1230" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
           <mxGeometry height="102" width="260" x="427" y="1032" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;" value="Успешно пройдено?" vertex="1">
-          <mxGeometry height="200" width="200" x="301" y="1184" as="geometry" />
+          <mxGeometry height="200" width="200" x="292" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Кандидату предлагается оффер" vertex="1">
           <mxGeometry height="78" width="260" x="124" y="1458" as="geometry" />
